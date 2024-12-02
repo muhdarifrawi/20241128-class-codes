@@ -1,0 +1,21 @@
+nav{
+    height:100px;
+    background-color: salmon;
+}
+
+footer{
+    background-color: cadetblue;
+    height:200px;
+    width:100vw;
+    position:fixed;
+    bottom:0px;
+}
+
+#section-1{
+    height:100vh;
+    background-color: blueviolet;
+}
+#section-2{
+    height:100vh;
+    background-color: violet;
+}
